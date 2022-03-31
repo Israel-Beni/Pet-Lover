@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Pet-Lover/static/js/main.f8965a1d.chunk.js",
+    "main.js.map": "/Pet-Lover/static/js/main.f8965a1d.chunk.js.map",
+    "runtime-main.js": "/Pet-Lover/static/js/runtime-main.52cea0d9.js",
+    "runtime-main.js.map": "/Pet-Lover/static/js/runtime-main.52cea0d9.js.map",
+    "static/js/2.301a255b.chunk.js": "/Pet-Lover/static/js/2.301a255b.chunk.js",
+    "static/js/2.301a255b.chunk.js.map": "/Pet-Lover/static/js/2.301a255b.chunk.js.map",
+    "static/js/3.9ca0359a.chunk.js": "/Pet-Lover/static/js/3.9ca0359a.chunk.js",
+    "static/js/3.9ca0359a.chunk.js.map": "/Pet-Lover/static/js/3.9ca0359a.chunk.js.map",
+    "index.html": "/Pet-Lover/index.html",
+    "static/js/2.301a255b.chunk.js.LICENSE.txt": "/Pet-Lover/static/js/2.301a255b.chunk.js.LICENSE.txt",
+    "static/media/logo.c7c56d31.svg": "/Pet-Lover/static/media/logo.c7c56d31.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52cea0d9.js",
+    "static/js/2.301a255b.chunk.js",
+    "static/js/main.f8965a1d.chunk.js"
+  ]
+}
